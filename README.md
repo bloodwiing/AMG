@@ -1,0 +1,2 @@
+# AMG
+Advanced Map Generator
